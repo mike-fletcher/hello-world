@@ -1,3 +1,4 @@
 Shape / envelope : https://pypi.org/project/alphashape/
 Generally fining up? https://stackoverflow.com/questions/44274216/python-how-to-efficiently-check-if-sequence-is-almost-increasing
 Manually train an AI algorithm by labelling beds i) Fining up, ii) Cleaning up, iii) Bell shaped, iv) Barrel shaped. v Saw toothed etc
+  -- Saw toothed shapes will have relatively wide envelopes, barrels relatively narrow 
